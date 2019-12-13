@@ -45,12 +45,17 @@ public class IntPractice {
 
     @Test
     public void test回文数() {
-        Scanner sc = new Scanner((System.in));
-        System.out.println("输入：");
-        int num = sc.nextInt();
-        boolean result = this.getHuiWenNum(num);
-        System.out.println(String.format("输出：%b", result));
-
+        while (true) {
+            Scanner sc = new Scanner((System.in));
+            System.out.println("输入：");
+            int num = sc.nextInt();
+            if (num == 0) {
+                System.out.println("结束回文数");
+                break;
+            }
+            boolean result = this.getHuiWenNum(num);
+            System.out.println(String.format("输出：%b", result));
+        }
     }
 
     private boolean getHuiWenNum(int num) {
