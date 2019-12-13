@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3cf5def-0106-4944-8a26-2b43fc60f5ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zeroten/common/util/ArrayUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/zeroten/common/util/ArrayUtilsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zeroten/common/util/CheckUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zeroten/common/util/CheckUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zeroten/common/util/CheckUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeroten/common/util/CheckUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zeroten/common/util/IntPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeroten/common/util/IntPractice.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,26 +25,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="8" />
-          <entry key="java" value="3" />
+          <entry key="java" value="5" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="8" />
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="5" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="451" />
+          <entry key="java" value="903" />
           <entry key="md" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="451" />
+          <entry key="JAVA" value="903" />
           <entry key="Markdown" value="12" />
         </counts>
       </usages-collector>
@@ -83,11 +82,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/util/CheckUtilsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="41" column="57" selection-start-line="41" selection-start-column="57" selection-end-line="41" selection-end-column="57" />
+            <state relative-caret-position="555">
+              <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/common/util/ArrayUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/util/ArrayUtilsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -115,6 +135,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/common/util/IntPractice.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/common/util/CheckUtils.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/zeroten/common/util/CheckUtilsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/common/util/ArrayUtils.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/zeroten/common/util/ArrayUtilsTest.java" />
       </list>
     </option>
   </component>
@@ -552,6 +574,14 @@
             </path>
             <path>
               <item name="common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="common" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -564,7 +594,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576223627149" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576226581365" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -584,8 +614,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CheckUtilsTest.testIntegerEquals">
-    <configuration name="CheckUtilsTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ArrayUtilsTest.testSort">
+    <configuration name="ArrayUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zeroten.common.util.ArrayUtils" />
+      <module name="common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zeroten.common.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayUtilsTest.testSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="common" />
       <extension name="coverage">
         <pattern>
@@ -594,8 +637,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.zeroten.common.util" />
-      <option name="MAIN_CLASS_NAME" value="com.zeroten.common.util.CheckUtilsTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="com.zeroten.common.util.ArrayUtilsTest" />
+      <option name="METHOD_NAME" value="testSort" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -612,22 +655,6 @@
       <option name="PACKAGE_NAME" value="com.zeroten.common.util" />
       <option name="MAIN_CLASS_NAME" value="com.zeroten.common.util.CheckUtilsTest" />
       <option name="METHOD_NAME" value="testIntegerEquals" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CheckUtilsTest.testIsAnyEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="common" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zeroten.common.util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.zeroten.common.util" />
-      <option name="MAIN_CLASS_NAME" value="com.zeroten.common.util.CheckUtilsTest" />
-      <option name="METHOD_NAME" value="testIsAnyEmpty" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -666,19 +693,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.CheckUtilsTest.testIsAnyEmpty" />
-      <item itemvalue="JUnit.CheckUtilsTest.test" />
       <item itemvalue="JUnit.CheckUtilsTest.testIsEmpty" />
       <item itemvalue="JUnit.CheckUtilsTest.testStringEquals" />
       <item itemvalue="JUnit.CheckUtilsTest.testIntegerEquals" />
+      <item itemvalue="Application.ArrayUtils" />
+      <item itemvalue="JUnit.ArrayUtilsTest.testSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ArrayUtilsTest.testSort" />
+        <item itemvalue="Application.ArrayUtils" />
         <item itemvalue="JUnit.CheckUtilsTest.testIntegerEquals" />
         <item itemvalue="JUnit.CheckUtilsTest.testStringEquals" />
         <item itemvalue="JUnit.CheckUtilsTest.testIsEmpty" />
-        <item itemvalue="JUnit.CheckUtilsTest.testIsAnyEmpty" />
-        <item itemvalue="JUnit.CheckUtilsTest.test" />
       </list>
     </recent_temporary>
   </component>
@@ -692,26 +719,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576202197745</updated>
-      <workItem from="1576202201357" duration="10463000" />
+      <workItem from="1576202201357" duration="13427000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CheckUtilsTest_testIsAnyEmpty - 2019.12.13 at 15h 26m 57s.xml">
-      <configuration name="CheckUtilsTest.testIsAnyEmpty" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CheckUtilsTest_testIsAnyEmpty - 2019.12.13 at 15h 27m 07s.xml">
-      <configuration name="CheckUtilsTest.testIsAnyEmpty" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CheckUtilsTest_testIsAnyEmpty - 2019.12.13 at 15h 28m 10s.xml">
-      <configuration name="CheckUtilsTest.testIsAnyEmpty" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CheckUtilsTest_testIsAnyEmpty - 2019.12.13 at 15h 28m 25s.xml">
-      <configuration name="CheckUtilsTest.testIsAnyEmpty" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CheckUtilsTest_test - 2019.12.13 at 15h 31m 00s.xml">
-      <configuration name="CheckUtilsTest.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CheckUtilsTest_testIsAnyEmpty - 2019.12.13 at 15h 33m 37s.xml">
       <configuration name="CheckUtilsTest.testIsAnyEmpty" configurationId="JUnit" />
     </history-entry>
@@ -727,9 +739,24 @@
     <history-entry file="CheckUtilsTest_testStringEquals - 2019.12.13 at 15h 51m 31s.xml">
       <configuration name="CheckUtilsTest.testStringEquals" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CheckUtilsTest_testIntegerEquals - 2019.12.13 at 15h 54m 09s.xml">
+      <configuration name="CheckUtilsTest.testIntegerEquals" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayUtilsTest_testSort - 2019.12.13 at 16h 40m 21s.xml">
+      <configuration name="ArrayUtilsTest.testSort" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayUtilsTest_testSort - 2019.12.13 at 16h 40m 44s.xml">
+      <configuration name="ArrayUtilsTest.testSort" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayUtilsTest_testSort - 2019.12.13 at 16h 41m 56s.xml">
+      <configuration name="ArrayUtilsTest.testSort" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayUtilsTest_testSort - 2019.12.13 at 16h 43m 05s.xml">
+      <configuration name="ArrayUtilsTest.testSort" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10463000" />
+    <option name="totallyTimeSpent" value="13427000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -751,8 +778,8 @@
       <window_info anchor="bottom" id="Messages" weight="0.32764506" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32935154" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993174" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32935154" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3993174" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -856,8 +883,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/util/CheckUtilsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="41" column="57" selection-start-line="41" selection-start-column="57" selection-end-line="41" selection-end-column="57" />
+        <state relative-caret-position="555">
+          <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/common/util/ArrayUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/util/ArrayUtilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
