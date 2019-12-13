@@ -3,6 +3,7 @@ package com.zeroten.common.util;
 import org.junit.Test;
 
 import java.util.Arrays;
+import java.util.Scanner;
 
 /**
  * Created by ZhnagZifan on 2019/12/13
@@ -39,5 +40,34 @@ public class IntPractice {
             }
         }
         System.out.println(String.format("共找到%d组吸血鬼数", sum));
+    }
+
+
+    @Test
+    public void test回文数() {
+        Scanner sc = new Scanner((System.in));
+        System.out.println("输入：");
+        int num = sc.nextInt();
+        boolean result = this.getHuiWenNum(num);
+        System.out.println(String.format("输出：%b", result));
+
+    }
+
+    private boolean getHuiWenNum(int num) {
+        if (null != num + "" && num + "" != "") {
+            StringBuilder sb = new StringBuilder();
+            String numStr = String.valueOf(num);
+
+            char[] chars = numStr.toCharArray();
+            for (int i = chars.length - 1; i >= 0; i--) {
+                sb.append(chars[i]);
+            }
+            String tempStr = sb.toString();
+            System.out.println(String.format("得到新的%s", tempStr));
+            if (numStr.equals((tempStr))) {
+                return true;
+            }
+        }
+        return false;
     }
 }
