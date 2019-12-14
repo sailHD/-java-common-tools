@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3cf5def-0106-4944-8a26-2b43fc60f5ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zeroten/common/util/ArrayUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/zeroten/common/util/ArrayUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/zeroten/common/util/review/reArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/zeroten/common/util/ArrayUtilsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/zeroten/common/util/ArrayUtilsTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,26 +26,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="8" />
-          <entry key="java" value="5" />
+          <entry key="java" value="6" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="8" />
-          <entry key="JAVA" value="5" />
+          <entry key="JAVA" value="6" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="903" />
+          <entry key="java" value="1575" />
           <entry key="md" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="903" />
+          <entry key="JAVA" value="1575" />
           <entry key="Markdown" value="12" />
         </counts>
       </usages-collector>
@@ -86,7 +87,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/util/CheckUtilsTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="555">
-              <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+              <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -97,17 +98,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/common/util/ArrayUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="178">
+              <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/util/review/reArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="107" column="46" selection-start-line="107" selection-start-column="46" selection-end-line="107" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/util/ArrayUtilsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            <state relative-caret-position="240">
+              <caret line="16" column="77" selection-start-line="16" selection-start-column="77" selection-end-line="16" selection-end-column="77" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -124,6 +137,14 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>secondNumi</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>j</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -136,7 +157,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/common/util/CheckUtils.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/zeroten/common/util/CheckUtilsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/common/util/ArrayUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/common/util/review/reArray.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/zeroten/common/util/ArrayUtilsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/zeroten/common/util/review/reArray.java" />
       </list>
     </option>
   </component>
@@ -154,7 +177,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="178" />
     <option name="y" value="40" />
     <option name="width" value="1002" />
@@ -594,13 +617,18 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576226581365" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576231954850" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.zeroten.common.util" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -614,98 +642,101 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ArrayUtilsTest.testSort">
-    <configuration name="ArrayUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zeroten.common.util.ArrayUtils" />
+  <component name="RunManager" selected="JUnit.reArray.练习">
+    <configuration name="reArray.练习" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="common" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zeroten.common.util.*" />
+          <option name="PATTERN" value="com.zeroten.common.util.review.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayUtilsTest.testSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="common" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zeroten.common.util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.zeroten.common.util" />
-      <option name="MAIN_CLASS_NAME" value="com.zeroten.common.util.ArrayUtilsTest" />
-      <option name="METHOD_NAME" value="testSort" />
+      <option name="PACKAGE_NAME" value="com.zeroten.common.util.review" />
+      <option name="MAIN_CLASS_NAME" value="com.zeroten.common.util.review.reArray" />
+      <option name="METHOD_NAME" value="练习" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckUtilsTest.testIntegerEquals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="reArray.test数组拷贝" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="common" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zeroten.common.util.*" />
+          <option name="PATTERN" value="com.zeroten.common.util.review.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.zeroten.common.util" />
-      <option name="MAIN_CLASS_NAME" value="com.zeroten.common.util.CheckUtilsTest" />
-      <option name="METHOD_NAME" value="testIntegerEquals" />
+      <option name="PACKAGE_NAME" value="com.zeroten.common.util.review" />
+      <option name="MAIN_CLASS_NAME" value="com.zeroten.common.util.review.reArray" />
+      <option name="METHOD_NAME" value="test数组拷贝" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckUtilsTest.testIsEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="reArray.test填充" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="common" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zeroten.common.util.*" />
+          <option name="PATTERN" value="com.zeroten.common.util.review.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.zeroten.common.util" />
-      <option name="MAIN_CLASS_NAME" value="com.zeroten.common.util.CheckUtilsTest" />
-      <option name="METHOD_NAME" value="testIsEmpty" />
+      <option name="PACKAGE_NAME" value="com.zeroten.common.util.review" />
+      <option name="MAIN_CLASS_NAME" value="com.zeroten.common.util.review.reArray" />
+      <option name="METHOD_NAME" value="test填充" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckUtilsTest.testStringEquals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="reArray.test数组排序" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="common" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zeroten.common.util.*" />
+          <option name="PATTERN" value="com.zeroten.common.util.review.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.zeroten.common.util" />
-      <option name="MAIN_CLASS_NAME" value="com.zeroten.common.util.CheckUtilsTest" />
-      <option name="METHOD_NAME" value="testStringEquals" />
+      <option name="PACKAGE_NAME" value="com.zeroten.common.util.review" />
+      <option name="MAIN_CLASS_NAME" value="com.zeroten.common.util.review.reArray" />
+      <option name="METHOD_NAME" value="test数组排序" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reArray.test多维数组和不规则数组" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zeroten.common.util.review.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zeroten.common.util.review" />
+      <option name="MAIN_CLASS_NAME" value="com.zeroten.common.util.review.reArray" />
+      <option name="METHOD_NAME" value="test多维数组和不规则数组" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.CheckUtilsTest.testIsEmpty" />
-      <item itemvalue="JUnit.CheckUtilsTest.testStringEquals" />
-      <item itemvalue="JUnit.CheckUtilsTest.testIntegerEquals" />
-      <item itemvalue="Application.ArrayUtils" />
-      <item itemvalue="JUnit.ArrayUtilsTest.testSort" />
+      <item itemvalue="JUnit.reArray.test数组拷贝" />
+      <item itemvalue="JUnit.reArray.test填充" />
+      <item itemvalue="JUnit.reArray.test数组排序" />
+      <item itemvalue="JUnit.reArray.test多维数组和不规则数组" />
+      <item itemvalue="JUnit.reArray.练习" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ArrayUtilsTest.testSort" />
-        <item itemvalue="Application.ArrayUtils" />
-        <item itemvalue="JUnit.CheckUtilsTest.testIntegerEquals" />
-        <item itemvalue="JUnit.CheckUtilsTest.testStringEquals" />
-        <item itemvalue="JUnit.CheckUtilsTest.testIsEmpty" />
+        <item itemvalue="JUnit.reArray.练习" />
+        <item itemvalue="JUnit.reArray.test多维数组和不规则数组" />
+        <item itemvalue="JUnit.reArray.test数组排序" />
+        <item itemvalue="JUnit.reArray.test填充" />
+        <item itemvalue="JUnit.reArray.test数组拷贝" />
       </list>
     </recent_temporary>
   </component>
@@ -719,44 +750,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576202197745</updated>
-      <workItem from="1576202201357" duration="13427000" />
+      <workItem from="1576202201357" duration="18240000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CheckUtilsTest_testIsAnyEmpty - 2019.12.13 at 15h 33m 37s.xml">
-      <configuration name="CheckUtilsTest.testIsAnyEmpty" configurationId="JUnit" />
+    <history-entry file="reArray_test数组拷贝 - 2019.12.13 at 17h 25m 43s.xml">
+      <configuration name="reArray.test数组拷贝" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckUtilsTest_testIsEmpty - 2019.12.13 at 15h 43m 02s.xml">
-      <configuration name="CheckUtilsTest.testIsEmpty" configurationId="JUnit" />
+    <history-entry file="reArray_test填充 - 2019.12.13 at 17h 25m 48s.xml">
+      <configuration name="reArray.test填充" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckUtilsTest_testIsEmpty - 2019.12.13 at 15h 43m 25s.xml">
-      <configuration name="CheckUtilsTest.testIsEmpty" configurationId="JUnit" />
+    <history-entry file="reArray_test填充 - 2019.12.13 at 17h 31m 26s.xml">
+      <configuration name="reArray.test填充" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckUtilsTest_testIsEmpty - 2019.12.13 at 15h 44m 34s.xml">
-      <configuration name="CheckUtilsTest.testIsEmpty" configurationId="JUnit" />
+    <history-entry file="reArray_test数组排序 - 2019.12.13 at 17h 31m 31s.xml">
+      <configuration name="reArray.test数组排序" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckUtilsTest_testStringEquals - 2019.12.13 at 15h 51m 31s.xml">
-      <configuration name="CheckUtilsTest.testStringEquals" configurationId="JUnit" />
+    <history-entry file="reArray_test数组排序 - 2019.12.13 at 17h 32m 10s.xml">
+      <configuration name="reArray.test数组排序" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckUtilsTest_testIntegerEquals - 2019.12.13 at 15h 54m 09s.xml">
-      <configuration name="CheckUtilsTest.testIntegerEquals" configurationId="JUnit" />
+    <history-entry file="reArray_test数组排序 - 2019.12.13 at 17h 34m 35s.xml">
+      <configuration name="reArray.test数组排序" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayUtilsTest_testSort - 2019.12.13 at 16h 40m 21s.xml">
-      <configuration name="ArrayUtilsTest.testSort" configurationId="JUnit" />
+    <history-entry file="reArray_test数组排序 - 2019.12.13 at 17h 35m 12s.xml">
+      <configuration name="reArray.test数组排序" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayUtilsTest_testSort - 2019.12.13 at 16h 40m 44s.xml">
-      <configuration name="ArrayUtilsTest.testSort" configurationId="JUnit" />
+    <history-entry file="reArray_test多维数组和不规则数组 - 2019.12.13 at 17h 36m 25s.xml">
+      <configuration name="reArray.test多维数组和不规则数组" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayUtilsTest_testSort - 2019.12.13 at 16h 41m 56s.xml">
-      <configuration name="ArrayUtilsTest.testSort" configurationId="JUnit" />
+    <history-entry file="reArray_练习 - 2019.12.13 at 18h 06m 35s.xml">
+      <configuration name="reArray.练习" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayUtilsTest_testSort - 2019.12.13 at 16h 43m 05s.xml">
-      <configuration name="ArrayUtilsTest.testSort" configurationId="JUnit" />
+    <history-entry file="reArray_练习 - 2019.12.13 at 18h 07m 37s.xml">
+      <configuration name="reArray.练习" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13427000" />
+    <option name="totallyTimeSpent" value="18240000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -778,8 +809,8 @@
       <window_info anchor="bottom" id="Messages" weight="0.32764506" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32935154" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3993174" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32935154" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993174" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -884,7 +915,17 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/util/CheckUtilsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
-          <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/util/ArrayUtilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="77" selection-start-line="16" selection-start-column="77" selection-end-line="16" selection-end-column="77" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -893,15 +934,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/common/util/ArrayUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="178">
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/util/ArrayUtilsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/util/review/reArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        <state relative-caret-position="163">
+          <caret line="107" column="46" selection-start-line="107" selection-start-column="46" selection-end-line="107" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
