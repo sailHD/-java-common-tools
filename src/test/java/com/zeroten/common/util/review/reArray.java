@@ -11,6 +11,9 @@ import java.util.Random;
  * Created by ZhnagZifan on 2019/12/13
  */
 public class reArray {
+//    copyOf,copyOfRange,fill,sort
+//    toString,equals,asList,
+//      不推荐binarySearch
 
     @Test
     public void test数组遍历() {
