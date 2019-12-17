@@ -55,10 +55,14 @@ public class premitiveError {
         Integer n1 = 127;
         Integer n2 = new Integer(127);
         System.out.println((n1 == n2) + "," + n1.equals(n2));   // false true
+//        本质是因为 Integer 内部维护了一个IntegerCache，
+//        -128 到 127 是byte的取值范围，如果在这个取值范围内，自动装箱就不会创建对象，而是从IntegerCache中获取，如果超过了byte的取值返回就会再新创建对象；
     }
 
     @Test
     public void Integer与int() {
+//        基本类型和包装类比较 ==，包装类会自动拆箱成基本类型。而基本类型是值比较，所以 n3 == n4 是true
+//        因为 n3 是基本类型，== 比较时会自动拆箱。
         int n1 = 127;
         Integer n2 = new Integer(127);
         int n3 = 128;

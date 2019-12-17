@@ -8,6 +8,10 @@ import java.sql.SQLOutput;
  * Created by ZhnagZifan on 2019/12/16
  */
 public class reString {
+    // length,codePointCount,substring,format
+    // equals,equalsIgnoreCase,startsWith,endsWith,contains,
+    // indexOf,lastIndexOf,replace,replaceAll
+    // trim,toUpperCase,toLowerCase
     @Test
     public void test基础等于判断() {
         String str1 = "hello";

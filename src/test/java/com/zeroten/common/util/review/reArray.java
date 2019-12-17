@@ -115,6 +115,13 @@ public class reArray {
      */
     @Test
     public void test数组转化为list() {
+        /*所有 Arrays.asList 注意2点。
+        1. 返回的 List 是不可以进行修改操作的
+        2. 如果参数是基本数据类型数组的时候，是将数组整体作为List的一个元素。*/
+
+       /* 第一个的原因是，返回的是内部实现的一个 ArrayList
+        第二个的原因是，asList的参数是泛型，而基本类型是不能用于泛型，但是基本类型数组却可以用于泛型*/
+
         String[] s = {"aa","bb","cc"};
         List<String> strlist = Arrays.asList(s);
         for(String str:strlist){
