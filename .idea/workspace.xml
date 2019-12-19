@@ -3,9 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="f3cf5def-0106-4944-8a26-2b43fc60f5ca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/zeroten/common/util/review/premitiveError.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/zeroten/common/util/review/premitiveError.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/zeroten/common/util/review/reArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/zeroten/common/util/review/reArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/zeroten/common/util/review/reString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/zeroten/common/util/review/reString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/zeroten/common/util/review/reArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/zeroten/common/util/review/reArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/zeroten/common/util/review/reInteger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/zeroten/common/util/review/reString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/zeroten/common/util/review/reString.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,62 +20,94 @@
     <session id="1079438996">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.56" value="1" />
           <entry key="project.open.time.60" value="1" />
+          <entry key="project.open.time.79" value="1" />
           <entry key="project.open.time.80" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="8" />
-          <entry key="java" value="18" />
+          <entry key="java" value="23" />
           <entry key="md" value="1" />
-          <entry key="xml" value="1" />
+          <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="8" />
-          <entry key="JAVA" value="18" />
+          <entry key="JAVA" value="23" />
           <entry key="Markdown" value="1" />
-          <entry key="XML" value="1" />
+          <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2142" />
+          <entry key="java" value="2349" />
           <entry key="md" value="12" />
+          <entry key="xml" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2142" />
+          <entry key="JAVA" value="2349" />
           <entry key="Markdown" value="12" />
+          <entry key="XML" value="26" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/util/review/reString.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/util/review/reObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+            <state relative-caret-position="343">
+              <caret line="56" column="39" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#158#159#0" expanded="true" />
+                <element signature="e#181#182#0" expanded="true" />
+                <element signature="e#699#700#0" expanded="true" />
+                <element signature="e#722#723#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/util/review/premitiveError.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/util/test/ClassStaticPrefix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="64" column="34" lean-forward="true" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
+            <state relative-caret-position="289">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#225#226#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#318#319#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/util/test/ClassStaticTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="257">
+              <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/util/test/VarTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -82,8 +115,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Integer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="849" column="14" lean-forward="true" selection-start-line="849" selection-start-column="14" selection-end-line="849" selection-end-column="14" />
+            <state relative-caret-position="12045">
+              <caret line="836" column="6" selection-start-line="836" selection-start-column="6" selection-end-line="836" selection-end-column="6" />
               <folding>
                 <element signature="e#32532#32533#0" expanded="true" />
                 <element signature="e#32566#32567#0" expanded="true" />
@@ -92,15 +125,6 @@
                 <element signature="e#35486#35487#0" expanded="true" />
                 <element signature="e#35532#35533#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/math/BigDecimal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="981" column="11" selection-start-line="981" selection-start-column="11" selection-end-line="981" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -117,8 +141,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Arrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="3793" column="58" lean-forward="true" selection-start-line="3793" selection-start-column="58" selection-end-line="3793" selection-end-column="58" />
+            <state relative-caret-position="55830">
+              <caret line="3793" column="58" selection-start-line="3793" selection-start-column="58" selection-end-line="3793" selection-end-column="58" />
               <folding>
                 <element signature="e#88329#88330#0" expanded="true" />
                 <element signature="e#88386#88387#0" expanded="true" />
@@ -134,7 +158,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/ArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
+            <state relative-caret-position="1200">
               <caret line="105" column="13" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
             </state>
           </provider>
@@ -183,7 +207,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/common/util/IntPractice.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/common/util/CheckUtils.java" />
@@ -195,6 +218,12 @@
         <option value="$PROJECT_DIR$/src/test/java/com/zeroten/common/util/review/reArray.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/zeroten/common/util/review/premitiveError.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/zeroten/common/util/review/reString.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/zeroten/common/util/review/reObject.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/zeroten/common/util/test/ClassStaticPrefix.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/zeroten/common/util/test/ClassStaticTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/zeroten/common/util/test/CreateObjectTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/zeroten/common/util/test/VarTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -588,8 +617,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -644,39 +671,32 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="common" type="b2602c69:ProjectViewProjectNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="review" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="common" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576567443772" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576738759184" />
+    <property name="last_opened_file_path" value="D:/金迅/后端金迅70期沈老师/02/java_les_example-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.zeroten.common.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\common\src\test\java\com\zeroten\common\util\test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -691,13 +711,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.premitiveError.test包装类型转换">
-    <configuration name="reString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zeroten.common.util.review.reString" />
+  <component name="RunManager" selected="Application.VarTest">
+    <configuration name="ClassStaticPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zeroten.common.util.test.ClassStaticPrefix" />
       <module name="common" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zeroten.common.util.review.*" />
+          <option name="PATTERN" value="com.zeroten.common.util.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassStaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zeroten.common.util.test.ClassStaticTest" />
+      <module name="common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zeroten.common.util.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zeroten.common.util.test.VarTest" />
+      <module name="common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zeroten.common.util.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -716,22 +762,6 @@
       <option name="PACKAGE_NAME" value="com.zeroten.common.util.review" />
       <option name="MAIN_CLASS_NAME" value="com.zeroten.common.util.review.premitiveError" />
       <option name="METHOD_NAME" value="test包装类型转换" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="reArray.test填充" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="common" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zeroten.common.util.review.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.zeroten.common.util.review" />
-      <option name="MAIN_CLASS_NAME" value="com.zeroten.common.util.review.reArray" />
-      <option name="METHOD_NAME" value="test填充" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -769,7 +799,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reString.test查找替换" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="reObject.testModifyMethodParam" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="common" />
       <extension name="coverage">
         <pattern>
@@ -778,8 +808,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.zeroten.common.util.review" />
-      <option name="MAIN_CLASS_NAME" value="com.zeroten.common.util.review.reString" />
-      <option name="METHOD_NAME" value="test查找替换" />
+      <option name="MAIN_CLASS_NAME" value="com.zeroten.common.util.review.reObject" />
+      <option name="METHOD_NAME" value="testModifyMethodParam" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -834,16 +864,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.reArray.test填充" />
-      <item itemvalue="JUnit.reString.test查找替换" />
-      <item itemvalue="Application.reString" />
       <item itemvalue="JUnit.premitiveError.test包装类型转换" />
+      <item itemvalue="JUnit.reObject.testModifyMethodParam" />
+      <item itemvalue="Application.ClassStaticPrefix" />
+      <item itemvalue="Application.ClassStaticTest" />
+      <item itemvalue="Application.VarTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VarTest" />
+        <item itemvalue="Application.ClassStaticTest" />
+        <item itemvalue="Application.ClassStaticPrefix" />
+        <item itemvalue="JUnit.reObject.testModifyMethodParam" />
         <item itemvalue="JUnit.premitiveError.test包装类型转换" />
-        <item itemvalue="Application.reString" />
-        <item itemvalue="JUnit.reString.test查找替换" />
       </list>
     </recent_temporary>
   </component>
@@ -859,23 +892,14 @@
       <updated>1576202197745</updated>
       <workItem from="1576202201357" duration="19083000" />
       <workItem from="1576457794416" duration="16247000" />
-      <workItem from="1576546189079" duration="8722000" />
+      <workItem from="1576546189079" duration="10191000" />
+      <workItem from="1576631528305" duration="173000" />
+      <workItem from="1576631863858" duration="2893000" />
+      <workItem from="1576717467944" duration="8972000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="reString_test长度 - 2019.12.16 at 17h 03m 10s.xml">
-      <configuration name="reString.test长度" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="reString_test子串 - 2019.12.16 at 17h 04m 45s.xml">
-      <configuration name="reString.test子串" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="reString_test子串 - 2019.12.16 at 17h 05m 01s.xml">
-      <configuration name="reString.test子串" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="reString_test格式化 - 2019.12.16 at 17h 06m 58s.xml">
-      <configuration name="reString.test格式化" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="reString_test综合 - 2019.12.16 at 17h 45m 40s.xml">
       <configuration name="reString.test综合" configurationId="JUnit" />
     </history-entry>
@@ -894,9 +918,21 @@
     <history-entry file="reInteger_test包装类型转换 - 2019.12.17 at 10h 18m 03s.xml">
       <configuration name="reInteger.test包装类型转换" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="reObject_testModifyMethodParam - 2019.12.19 at 09h 39m 18s.xml">
+      <configuration name="reObject.testModifyMethodParam" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="reObject_testModifyMethodParam - 2019.12.19 at 09h 42m 44s.xml">
+      <configuration name="reObject.testModifyMethodParam" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="reObject_testModifyMethodParam - 2019.12.19 at 09h 49m 53s.xml">
+      <configuration name="reObject.testModifyMethodParam" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="reObject_testModifyMethodParam - 2019.12.19 at 10h 06m 42s.xml">
+      <configuration name="reObject.testModifyMethodParam" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44052000" />
+    <option name="totallyTimeSpent" value="57559000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -911,7 +947,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49618322" visible="true" weight="0.18456884" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49618322" visible="true" weight="0.1709531" />
       <window_info id="Structure" order="1" sideWeight="0.5038168" side_tool="true" weight="0.18456884" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -921,17 +957,18 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32935154" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30375427" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993174" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32935154" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32935154" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32820514" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32764506" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32764506" />
-      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.32991454" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32935154" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32820514" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" side_tool="true" weight="0.32980332" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
@@ -1032,10 +1069,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="106">
           <caret line="147" column="19" selection-start-line="147" selection-start-column="19" selection-end-line="147" selection-end-column="19" />
-          <folding>
-            <element signature="e#5748#5749#0" expanded="true" />
-            <element signature="e#5784#5785#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1057,9 +1090,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="48" column="43" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1074,8 +1104,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
           <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/util/review/reArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1710">
+          <caret line="120" selection-start-line="120" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/math/BigDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="981" column="11" selection-start-line="981" selection-start-column="11" selection-end-line="981" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/util/review/reString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="107" column="48" selection-start-line="107" selection-start-column="48" selection-end-line="107" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/util/review/premitiveError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="64" column="34" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12045">
+          <caret line="836" column="6" selection-start-line="836" selection-start-column="6" selection-end-line="836" selection-end-column="6" />
+          <folding>
+            <element signature="e#32532#32533#0" expanded="true" />
+            <element signature="e#32566#32567#0" expanded="true" />
+            <element signature="e#33891#33892#0" expanded="true" />
+            <element signature="e#33919#33920#0" expanded="true" />
+            <element signature="e#35486#35487#0" expanded="true" />
+            <element signature="e#35532#35533#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1084,6 +1157,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9075">
           <caret line="656" column="39" selection-start-line="656" selection-start-column="39" selection-end-line="656" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55830">
+          <caret line="3793" column="58" selection-start-line="3793" selection-start-column="58" selection-end-line="3793" selection-end-column="58" />
+          <folding>
+            <element signature="e#88329#88330#0" expanded="true" />
+            <element signature="e#88386#88387#0" expanded="true" />
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+            <element signature="e#177353#177354#0" expanded="true" />
+            <element signature="e#177410#177411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="105" column="13" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1097,81 +1192,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/math/BigDecimal.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/util/review/reObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="981" column="11" selection-start-line="981" selection-start-column="11" selection-end-line="981" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="105" column="13" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="3793" column="58" lean-forward="true" selection-start-line="3793" selection-start-column="58" selection-end-line="3793" selection-end-column="58" />
+        <state relative-caret-position="343">
+          <caret line="56" column="39" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
           <folding>
-            <element signature="e#88329#88330#0" expanded="true" />
-            <element signature="e#88386#88387#0" expanded="true" />
-            <element signature="e#177013#177014#0" expanded="true" />
-            <element signature="e#177054#177055#0" expanded="true" />
-            <element signature="e#177353#177354#0" expanded="true" />
-            <element signature="e#177410#177411#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#699#700#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/util/test/ClassStaticPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/util/test/CreateObjectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="e#879#880#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/util/test/ClassStaticTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        <state relative-caret-position="225">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Integer.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/util/test/VarTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="849" column="14" lean-forward="true" selection-start-line="849" selection-start-column="14" selection-end-line="849" selection-end-column="14" />
-          <folding>
-            <element signature="e#32532#32533#0" expanded="true" />
-            <element signature="e#32566#32567#0" expanded="true" />
-            <element signature="e#33891#33892#0" expanded="true" />
-            <element signature="e#33919#33920#0" expanded="true" />
-            <element signature="e#35486#35487#0" expanded="true" />
-            <element signature="e#35532#35533#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/util/review/premitiveError.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="64" column="34" lean-forward="true" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/util/review/reArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1710">
-          <caret line="120" selection-start-line="120" selection-end-line="120" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/util/review/reString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="184">
+          <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
         </state>
       </provider>
     </entry>
