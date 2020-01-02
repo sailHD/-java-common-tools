@@ -1,4 +1,4 @@
-package com.zeroten.common.util.test;
+package com.zeroten.common.util.test.extendsExample;
 
 /**
  * Created by ZhnagZifan on 2019/12/20

@@ -1,4 +1,4 @@
-package com.zeroten.common.util.test;
+package com.zeroten.common.util.test.extendsExample;
 
 import org.junit.Test;
 
